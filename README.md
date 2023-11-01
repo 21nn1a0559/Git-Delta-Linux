@@ -1,7 +1,7 @@
 # Git-Delta-Linux
 This is a Git Tutorial
 
-# teacher
+# Teacher
 Shradha Khapra
 
 # Student
